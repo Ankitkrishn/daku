@@ -1,0 +1,67 @@
+google dork
+
+
+inurl:amount=
+inurl:transfer
+slip
+ext:.rtf ,.properties ,.pem ,  .PHP , .yml ,.zip , jsp,ppt
+voucher
+receipts
+certificate
+Transaction ID
+Account Number
+dashboard
+portal
+inurl:payment_type=
+inurl:send
+inurl:backup
+inurl:setting
+inurl:currency
+inurl:sendMoney
+inurl:currencyCode=
+inurl:recipient=
+inurl:'@gmail.com'
+intext:@gmail.com filetype:xls
+inurl:'@yahoo.com'
+inurl:'@hotmail.com'
+inurl:'@msn.com'
+inurl:'e=' 'refer'
+inurl:'tellapal.id'
+inurl:'payment_type='
+inurl:'sendMoneyText'
+inurl:'recipient='
+inurl:currencyCode=
+inurl:onboardData=
+inurl:sendMoney
+inurl:item_name
+filetype:bak
+.php?redirect="
+inurl:order
+inurl:ftp 
+intitle:"Index of" wp-admin
+inurl:admin
+numrange:99999-100000
+filetype:log
+allintext:username filetype:log
+inurl:/proc/self/cwd
+intext:username
+inurl:/wordpress/wp-content 
+inurl:/wordpress/wp-admin 
+inurl:/wordpress/wp-includes
+site:http://sharepoint.com "dell.com"
+site:tesla.com ext:php inurl:?
+site:docs.google.com inurl:"/d/" "example.com"
+site:http://s3-external-1.amazonaws.com "example.com"
+site:http://s3.dualstack.us-east-1.amazonaws.com "example.com"
+site:"dev.azure.com" and intext:secret
+site:"dev.azure.com" and intext:password
+site:"dev.azure.com" and intext:apikey
+site:"s3-external-1.amazonaws.com" and intext:CONFIDENTIAL
+site:"s3.amazonaws.com" and intext:CONFIDENTIAL
+site:"s3.dualstack.us-east-1.amazonaws.com" and intext:CONFIDENTIAL
+site:s3.amazonaws.com "example.com"
+site:blob.core.windows.net "example.com"
+site:googleapis.com "example.com"
+site:drive.google.com "example.com"
+intitle:"grafana" inurl:"/grafana/login" "Forgot your password"
+intitle:Grafana
